@@ -11,15 +11,15 @@
 1. Clone this repository or download zip
 
 ```bash
-git clone https://github.com/zuramai/mazer
+git clone https://github.com/kdandy/covid19
 ```
 
-2. Open `mazer/dist/index.html` to see the dashboard
+2. Open `yoursite/index.html` to see the dashboard
 
 ## Demo and Documentation
 
-- Open the [demo page](http://zuramai.github.io/mazer/demo)
-- Open the [documentation page](http://zuramai.github.io/mazer/docs)
+- Open the [demo page](http://covid19.kdandy.com)
+- Open the [source code](http://github.com/kdandy/covid19)
 
 ## Framework Boilerplate (Starter-kit)
 
@@ -29,33 +29,22 @@ git clone https://github.com/zuramai/mazer
 - [React JS Component Library](https://github.com/fachryansyah/react-mazer-ui) by [@fachryansyah](https://github.com/fachryansyah/)
 - Did you make in another framework? [Contribute](https://github.com/zuramai/mazer/blob/main/CONTRIBUTING.md) or message me at [Twitter](https://twitter.com/asawgi)
 
-## Contributing
-
-- Fork it ( https://github.com/zuramai/mazer/fork )
-- Create your feature branch (`git checkout -b my-new-feature`)
-- Commit your changes (`git commit -am 'Add some feature'`)
-- Push to the branch (`git push origin my-new-feature`)
-- Create a new Pull Request
 
 ### Note
 
 - If you want to make some changes in the CSS style. Don't edit the `.css` file, use the SCSS file instead.
 - Since we use Nunjucks, if you want to make changes to the HTML structure, make sure you change the source file (Nunjucks) located in `src`.
 
-### Another Resource
-
-- [React Mazer Ui](https://github.com/fachryansyah/react-mazer-ui) a wrapper Mazer for ReactJS
-
 ## License
 
-Mazer is under MIT License.
+covid19 is under MIT License.
 
 ## About the Author
 
-Mazer is created by <a href="https://ahmadsaugi.com">Saugi</a>.
+covid19 is created by <a href="https://kdandy.com">jaden</a>.
 
 ## Donate
 
-You can support me at [Ko-fi](https://ko-fi.com/saugi) or [Trakteer](https://trakteer.id/saugi)
+You can support me at [Ko-fi](https://ko-fi.com/kdandy.com) or [Trakteer](https://trakteer.id/kdandy)
 
-<a href="https://buymeacoffee.com/saugi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<a href="https://buymeacoffee.com/kdandy" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
