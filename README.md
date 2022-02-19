@@ -4,7 +4,7 @@
 
 </p>
 
-![Screenshot](https://raw.githubusercontent.com/zuramai/mazer/main/screenshot.png)
+![Screenshot](https://user-images.githubusercontent.com/50922642/154801072-898b0383-8715-4802-a0e9-b0e4f4aba6f9.png)
 
 ## Installation
 
