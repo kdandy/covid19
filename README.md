@@ -45,8 +45,6 @@ covid19 is created by <a href="https://kdandy.com">jaden</a>.
 
 ## Donate
 
-You can support me at [Trakteer](https://trakteer.id/kdandy). or
-
-<h3 align="left">Support:</h3>
+You can support me at [Trakteer](https://trakteer.id/kdandy/tip). or
 <p><a href="https://www.buymeacoffee.com/kdandy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kdandy" /></a><a href="https://ko-fi.com/kdandy"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kdandy" /></a></p><br><br>
 </p>
