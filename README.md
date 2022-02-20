@@ -1,5 +1,5 @@
 <h1 align="center">Live Tracker Covid 19</h1>
-<p align="center">Mazer is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5. No jQuery dependency.</p>
+<p align="center">Covid19 is an Admin Dashboard Template that can help you develop faster. Made with Bootstrap 5. No jQuery dependency.</p>
 <p align="center">
 
 </p>
