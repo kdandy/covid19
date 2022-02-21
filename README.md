@@ -18,7 +18,7 @@ git clone https://github.com/kdandy/covid19
 
 ## Demo and Documentation
 
-- Open the [demo page](https://kdcovid19.netlify.app/)
+- Open the [demo page](https://vcovid19.netlify.app/)
 - Open the [source code](https://github.com/kdandy/covid19)
 
 ### Note
